@@ -1,2 +1,2 @@
-Flask==2.3.3
-tronpy==1.3.5
+Flask
+tronpy
